@@ -1,0 +1,5 @@
+google-cloud-bigquery
+numpy==2.1.2
+pyproj==3.7.0
+pyspark==3.5.3
+shapely==2.0.6
