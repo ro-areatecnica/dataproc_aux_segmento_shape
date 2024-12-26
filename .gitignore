@@ -1,0 +1,5 @@
+# Ignore pasta .idea (configurações do IDE)
+.idea/
+
+# Ignore pasta .venv (ambiente virtual)
+.venv/
